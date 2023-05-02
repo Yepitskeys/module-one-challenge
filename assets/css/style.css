@@ -89,8 +89,13 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead-brand-cost {
+/* Condensed the benefit sections */
+
+.benefit {
     margin-bottom: 32px;
+}
+
+.benefit-lead-brand-cost {
     color: #ffffff;
     margin-bottom: 10px;
     text-align: center;
